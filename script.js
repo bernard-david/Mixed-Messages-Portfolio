@@ -17,8 +17,8 @@ let madLibsMessage = [];
 
 // Iterate over the object.
 for(let word in messageData) {
-    let randomIndex = createRandomNumber(messageData[word.length]);
-
+    let randomIndex = createRandomNumber(messageData[word].length);
+    console.log(randomIndex);
     // Take the object's properties to create a message and add it to the madLibsMessage array.
     switch(word) {
         case 'verb':
