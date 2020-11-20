@@ -1,3 +1,8 @@
+// Creates a Random number
+function createRandomNumber(num) {
+    return Math.floor(Math.random() * num)
+} 
+
 const messageData = {
     verb: ['fart', 'whistle', 'kick', 'sleep', 'wash', 'drink'],
     noun: ['bear', 'mirror', 'toe', 'tea cup', 'flower', 'hat'],
