@@ -28,7 +28,7 @@ Below is the message used in the program. The program will randomly select a wor
 
 ## Sources
 
-* Codecademy's
+* Codecademy
 * WikiPedia for explanation of Mad Libs.
 
 ## Contact
