@@ -40,4 +40,13 @@ for(let word in messageData) {
             madLibsMessage.push('Please provide more words to complete the MadLib.')
     }
         
-}
+};
+
+// Format the MadLibs message
+function formatMadLibs(madLibs) {
+    const compiled = madLibsMessage.join('');
+    console.log(compiled);
+};
+
+// Print final result
+formatMadLibs(madLibsMessage);
