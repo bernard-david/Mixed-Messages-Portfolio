@@ -9,6 +9,10 @@ This project is a message generator that randomly selects words and includes the
 * Command Line
 * Git version control
 
+## Launch
+
+* Node.js
+
 ## Project Guidelines
 
 Project orginates from Codecademy's Full Stack Developer course
