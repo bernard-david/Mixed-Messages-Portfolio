@@ -33,6 +33,11 @@ for(let word in messageData) {
         case 'number':
             madLibsMessage.push(`Well, I must say that I tried this ${messageData[word][randomIndex]} time(s). `)
             break;
-        
+        case 'secondNoun':
+            madLibsMessage.push(`All I got was a ${messageData[word][randomIndex]}.`)
+            break;
+        default:
+            madLibsMessage.push('Please provide more words to complete the MadLib.')
     }
+        
 }
