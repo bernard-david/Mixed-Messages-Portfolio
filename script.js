@@ -8,7 +8,8 @@ const messageData = {
     verb: ['fart', 'whistle', 'kick', 'sleep', 'wash', 'drink'],
     noun: ['bear', 'mirror', 'toe', 'tea cup', 'flower', 'hat'],
     ingVerb: ['running', 'spitting', 'clucking', 'burping', 'spooning', 'cooking'],
-    number: ['1', '54,377', '12', 'three million', '0.55', '36']
+    number: ['1', '54,377', '12', 'three million', '0.55', '36'],
+    secondNoun: ['tooth', 'cat', 'shirt', 'chair', 'stick', 'tomato']
 };
 
 // Stores final message result to be printed.
