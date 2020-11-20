@@ -7,7 +7,8 @@ This project is a message generator that randomly selects words and includes the
 * Javascript
 * VS Code
 * Command Line
-* Git version control
+* Git
+* Node.js
 
 ## Launch
 
